@@ -9,7 +9,10 @@ public class TestGit {
 		System.out.println("age is 25");
 
 	}
-	
+	private void place() {
+		System.out.println("Coimbatore");
+
+	}
 	
 	public static void main(String[] args) {
 		TestGit obj= new TestGit();
