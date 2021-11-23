@@ -9,7 +9,10 @@ public class TestGit {
 		System.out.println("age is 25");
 
 	}
-	
+	private void degree() {
+		System.out.println("Bsc computer science");
+
+	}
 	
 	public static void main(String[] args) {
 		TestGit obj= new TestGit();
